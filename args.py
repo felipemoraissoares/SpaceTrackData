@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 
 # a diferent query could be generate in https://www.space-track.org/#/queryBuilder
-# just put the credentials to accces https://www.space-track.org in ### fields site_cred
+# just put the credentials to access https://www.space-track.org in ### fields site_cred
 
 args = {
     'url_login': "https://www.space-track.org/ajaxauth/login",
