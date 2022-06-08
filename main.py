@@ -1,3 +1,5 @@
+## Project CEI SSCS
+## Author: Felipe de Morais Soares 
 ##
 ## Simple Python projetct to obtain data of objects in space orbit from www.space-track.org
 ## This data will be saved in a csv file according to the space-track api query
